@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CAEA,qBACE,oBACF,CAEA,iBACE,WAAY,CACZ,YACF","file":"src.76642ca4.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\n.react-pdf__Document {\n  display: inline-block;\n}\n\n.react-pdf__Page {\n  width: 300px;\n  height: 424px;\n}\n"]}
